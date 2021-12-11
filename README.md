@@ -1,4 +1,4 @@
 # APPLICATION
 
 
-Application is useful for the client
+Application is useful for the client.
